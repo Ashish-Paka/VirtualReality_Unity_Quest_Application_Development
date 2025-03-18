@@ -2,7 +2,7 @@
 
 ## 🏗️ About the App
 This is a **VR application** designed for an immersive experience. Install it on your VR-supported Android device to explore virtual worlds!
-
+I've shown basic VR interactions and movement in VR.
 ## 📥 Download the APK
 
 Click the link below to download the latest version of the APK:
